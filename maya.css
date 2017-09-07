@@ -1,0 +1,11 @@
+body{
+	background: url(https://c1.staticflickr.com/5/4414/36889092256_664dcff0a7_b.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#content{
+	text-align: center;
+	padding-top: 25%;
+}
+
